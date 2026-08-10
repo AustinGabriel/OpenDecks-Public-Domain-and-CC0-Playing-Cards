@@ -10,7 +10,7 @@ All assets are released into the **public domain** (CC0). The majority have been
 
 ## Preview
 
-![image_alt](https://github.com/AustinGabriel/OpenDecks/blob/03e829e72081169f62780eabe175c68269b1dee4/PREVIEW.png)
+![image_alt]()
 
 ## Features
 
