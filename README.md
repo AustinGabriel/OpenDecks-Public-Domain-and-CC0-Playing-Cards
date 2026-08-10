@@ -37,7 +37,7 @@ Feel free to:
 - Modify the artwork further
 - Redistribute the assets
 
-Just don’t use the trademarked name “OpenDecks” as your product/brand name without permission.
+Just don’t use the trademarked name “OpenDecks” as your product/brand name.
 
 ## Credits
 
