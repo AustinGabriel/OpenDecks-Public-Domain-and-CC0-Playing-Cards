@@ -36,7 +36,7 @@ Although attribution is not required, the following sources were used (most asse
   Source: [Complete Guyenne Deck – Openclipart](https://openclipart.org/detail/175269/complete-guyenne-deck)  
   (Public domain / CC0. Red shade adjusted.)
 
-- **Joker card text**  
+- **Joker card indices (corner text)**  
   Source: [Jokers – Openclipart](https://openclipart.org/detail/351622/jokers)  
   (Public domain / CC0. Red shade adjusted.)
 
