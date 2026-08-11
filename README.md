@@ -11,7 +11,7 @@ All artwork is free for commercial use, including physical card production, game
 ## Contents
 
 - Full standard 52-card deck + Jokers
-- Card backs (multiple color variants)
+- Card backs (blue and red variants)
 - Vector (SVG) and raster (PNG) versions of every card
 
 ## License
