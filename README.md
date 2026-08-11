@@ -45,7 +45,7 @@ If you fork this project, please pick your own name for your version.
 
 ## Usage
 
-Grab whatever you need directly from the `/svg` or `/png` folders. Files are named by suit and rank (e.g. `spades_ace.svg`, `hearts_king.png`, `joker_red.svg`, `back_blue.png`).
+Grab whatever you need directly from the `/svg` or `/png` folders. Files are named by suit and rank (e.g. `ace of spades.svg`, `king of hearts.png`, `red joker.svg`, `card back blue.png`).
 
 Common uses:
 - Physical/print-on-demand card decks
