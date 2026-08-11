@@ -1,44 +1,57 @@
 # OpenDecks
 
-Public domain / CC0 vector playing cards in standard poker size.
+Standard poker-sized playing cards rendered as SVG and PNG, built exclusively from public domain and CC0 assets.
 
-OpenDecks provides high-quality SVG and PNG assets of a complete standard 52-card deck (+ jokers) intended for commercial use, physical card printing, and free use in game projects.
-
-All assets are released into the **public domain** (CC0). The majority have been modified from original public domain sources.
-
-> **Note:** The name **OpenDecks** is a trademarked brand name. You may freely use the card assets themselves, but you may not use the name “OpenDecks” as the title or brand of your own commercial product.
+All artwork is free for commercial use, including physical card production, game projects, apps, and redistribution. The majority of assets have been modified (colors, symmetry, proportions, etc.).
 
 ## Preview
 
 ![image_alt](https://github.com/AustinGabriel/OpenDecks/blob/ef7a369b5de6be0728d902b3d1fbbbeb23f77f68/PREVIEW.png)
 
-## Features
+## Contents
 
-- Standard poker size (2.5" × 3.5" / 63.5 mm × 88.9 mm)
-- Clean vector artwork (SVG) + raster exports (PNG)
-- Full 52-card deck + jokers
-- Public domain / CC0 — free for commercial use, physical products, and game projects
-- No attribution required (though appreciated)
+- Full standard 52-card deck + Jokers
+- Card backs (multiple color variants)
+- Vector (SVG) and raster (PNG) versions of every card
 
 ## License
 
-All card assets in this repository are dedicated to the public domain under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+All assets in this repository are released under the Creative Commons Zero (CC0) 1.0 Universal Public Domain Dedication (or equivalent public domain status of the source materials).
 
-You can copy, modify, distribute, and use them for any purpose, including commercial and physical products, with no restrictions and no attribution required.
+You may use, modify, distribute, and commercialize them with no attribution required and no restrictions.
 
-The name **OpenDecks** itself is trademarked and is **not** covered by the public domain dedication.
+## Credits & Attribution
 
-## Usage
+Although attribution is not required, the following sources were used (most assets were modified):
 
-Feel free to:
+- **Court cards and Ace of Spades ornate design**  
+  Source: [vector-playing-cards (Google Code Archive)](https://code.google.com/archive/p/vector-playing-cards/)  
+  (Public domain. Court cards recolored.)
 
-- Print physical decks
-- Use in commercial card games or digital games
-- Modify the artwork further
-- Redistribute the assets
+- **Pips and suit symbols**  
+  Source: [Singularity Deck Pips – Openclipart](https://openclipart.org/detail/333273/singularity-deck-pips)  
+  (Public domain / CC0. Shapes slightly adjusted for symmetry; colors changed.)
 
-Just don’t use the trademarked name “OpenDecks” as your product/brand name.
+- **Letters and numbers (indexes)**  
+  Source: [Complete Guyenne Deck – Openclipart](https://openclipart.org/detail/175269/complete-guyenne-deck)  
+  (Public domain / CC0. Red shade adjusted.)
 
-## Credits
+- **Joker card text**  
+  Source: [Jokers – Openclipart](https://openclipart.org/detail/351622/jokers)  
+  (Public domain / CC0. Red shade adjusted.)
 
-All source material was public domain / CC0. Most assets have been modified.
+- **Joker hat icon**  
+  Source: [Joker Hat – SVG Repo](https://www.svgrepo.com/svg/51245/joker-hat)  
+  (CC0. Two variants created: one left black, one recolored red.)
+
+- **Card backs**  
+  Source: [Playing cards back vector svg – OpenGameArt](https://opengameart.org/content/playing-cards-back-vector-svg)  
+  (CC0. Blue and red variants adjusted to different shades.)
+
+Openclipart content is released under CC0. The original vector-playing-cards set by Byron Knoll is public domain.
+
+## Notes
+
+- Cards are standard poker size.
+- All source material was verified as public domain or CC0 at the time of creation.
+- **The OpenDecks name itself is trademarked and is not part of the public-domain assets.**
