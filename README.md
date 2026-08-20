@@ -1,6 +1,6 @@
 # OpenDecks
 
-![image_alt](https://github.com/AustinGabriel/OpenDecks-Public-Domain-and-CC0-Playing-Cards/blob/aab76e859e0b23c295dd46795e709541220bf744/PREVIEW.png)
+![image_alt]([https://github.com/AustinGabriel/OpenDecks-Public-Domain-and-CC0-Playing-Cards/blob/aab76e859e0b23c295dd46795e709541220bf744/PREVIEW.png](https://github.com/AustinGabriel/OpenDecks-Public-Domain-and-CC0-Playing-Cards/blob/f543f04505493dbd2484dd222741c679280728f9/PREVIEW.png))
 
 A complete, standard poker-sized 54-card deck (52 cards + 2 jokers), built entirely from public domain / CC0 sources and released for free, unrestricted use — including commercial physical card printing, digital games, and any other project.
 
