@@ -6,8 +6,6 @@ A complete, standard poker-sized 54-card deck (52 cards + 2 jokers), built entir
 
 Every card is available as both **SVG** (vector, infinitely scalable) and **PNG** (raster) so you can drop them straight into a game engine, a print-on-demand template, or a design tool without any conversion step.
 
-> **Note:** "OpenDecks" is a trademarked name. See [Trademark](#trademark) below for what that does and doesn't restrict.
-
 ## What's included
 
 - All 52 standard cards across four suits (Spades, Hearts, Clubs, Diamonds), Ace through King
@@ -36,12 +34,6 @@ No attribution is legally required, but the following sources made this project 
 | Card backs | [Playing Cards Back Vector SVG](https://opengameart.org/content/playing-cards-back-vector-svg) on OpenGameArt (CC0) | Blue and red backs recolored to different shades |
 
 All of the above sources are released under CC0 or dedicated to the public domain by their original creators. Every asset used here has been verified as free for commercial use with no attribution requirement.
-
-## Trademark
-
-**"OpenDecks" is a trademarked name.** This does not restrict how you use the card assets themselves — you're free to use, modify, print, and sell decks made from these files under any name you like. What it does mean is that you shouldn't use the name "OpenDecks" (or a confusingly similar name/logo) to brand your own redistributed or modified version of this project in a way that implies it's the official release.
-
-If you fork this project, please pick your own name for your version.
 
 ## Usage
 
