@@ -28,7 +28,7 @@ No attribution is legally required, but the following sources made this project 
 
 | Asset | Source | Notes on modifications |
 |---|---|---|
-| Court cards (Jack, Queen, King) and the ornate Ace of Spades design | [vector-playing-cards](https://code.google.com/archive/p/vector-playing-cards/) (Google Code Archive, released to the public domain by the original author) | Recolored |
+| Court cards (Jack, Queen, King) and the ornate Ace of Spades design | [vector-playing-cards](https://code.google.com/archive/p/vector-playing-cards/) (Google Code Archive, released to the public domain by the original author) | Court card designs recolored and lightly tweaked; Ace of Spades design used as-is |
 | Suit pips / symbols | [Singularity Deck Pips](https://openclipart.org/detail/333273/singularity-deck-pips) on Openclipart (CC0) | Shapes adjusted for better symmetry; recolored |
 | Rank letters and numbers | [Complete Guyenne Deck](https://openclipart.org/detail/175269/complete-guyenne-deck) on Openclipart (CC0) | Red shade adjusted |
 | Joker card index text | [Jokers](https://openclipart.org/detail/351622/jokers) on Openclipart (CC0) | Red shade adjusted |
