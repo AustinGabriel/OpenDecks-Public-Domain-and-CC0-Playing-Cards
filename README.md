@@ -45,10 +45,6 @@ Common uses:
 - Prototyping and game jams
 - Design assets for card-based UIs
 
-## Contributing
-
-Contributions are welcome — whether that's additional card back designs, alternate suit styles, or fixes to existing artwork. Please make sure any contributed assets are genuinely public domain or CC0 and include a source link in your pull request.
-
 ## Disclaimer
 
 This project is provided as-is, with no warranty. While every source listed above has been verified as public domain / CC0 at the time of writing, license status on third-party sites can change — if you spot an issue with any credited source, please open an issue.
